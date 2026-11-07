@@ -26,3 +26,23 @@ internal static class Program
                 Console.Error.WriteLine("[ERROR] La contraseña no puede estar vacía.");
                 return 1;
             }
+             if (command == "cifrar")
+            {
+                CajaFuerteService.EncryptFile(inputPath, outputPath, password);
+                Console.WriteLine($"[OK] Fichero cifrado correctamente: {outputPath}");
+                return 0;
+            }
+            else if (command == "descifrar")
+            {
+                CajaFuerteService.DecryptFile(inputPath, outputPath, password);
+                Console.WriteLine($"[OK] Fichero descifrado correctamente: {outputPath}");
+                return 0;
+            }
+            else
+            {
+                Console.Error.WriteLine($"[ERROR] Comando desconocido: '{command}'.");
+                ShowUsage();
+                return 1;
+            }
+        }
+      
