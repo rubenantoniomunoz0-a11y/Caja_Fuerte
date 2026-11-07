@@ -1,0 +1,5 @@
+C:\Users\usuario\Documents\GitHub\Caja_Fuerte\CajaFuerte\Caja_Fuerte\obj\Debug\net10.0\Caja_Fuerte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\Caja_Fuerte\CajaFuerte\Caja_Fuerte\obj\Debug\net10.0\Caja_Fuerte.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\Caja_Fuerte\CajaFuerte\Caja_Fuerte\obj\Debug\net10.0\Caja_Fuerte.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\Caja_Fuerte\CajaFuerte\Caja_Fuerte\obj\Debug\net10.0\Caja_Fuerte.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\Caja_Fuerte\CajaFuerte\Caja_Fuerte\obj\Debug\net10.0\Caja_Fuerte.sourcelink.json

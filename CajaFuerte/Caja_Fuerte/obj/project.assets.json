@@ -8,26 +8,24 @@
     "net10.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rubenantoniomunoz0\\.nuget\\packages\\": {}
+    "C:\\Users\\usuario\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\Caja_Fuerte.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\Caja_Fuerte.csproj",
       "projectName": "Caja_Fuerte",
-      "projectPath": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\Caja_Fuerte.csproj",
-      "packagesPath": "C:\\Users\\rubenantoniomunoz0\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\obj\\",
+      "projectPath": "C:\\Users\\usuario\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\Caja_Fuerte.csproj",
+      "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\usuario\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rubenantoniomunoz0\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -69,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
