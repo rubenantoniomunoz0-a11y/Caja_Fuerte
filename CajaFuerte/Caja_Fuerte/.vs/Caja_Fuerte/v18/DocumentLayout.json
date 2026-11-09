@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\CONTRASENA.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CONTRASENA.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\recuperado.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:recuperado.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\Caja_Fuerte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Caja_Fuerte.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -38,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +58,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CONTRASENA.txt",
+              "DocumentMoniker": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\CONTRASENA.txt",
+              "RelativeDocumentMoniker": "CONTRASENA.txt",
+              "ToolTip": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\CONTRASENA.txt",
+              "RelativeToolTip": "CONTRASENA.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-09T18:16:35.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-11-09T18:16:34.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "recuperado.txt",
+              "DocumentMoniker": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\recuperado.txt",
+              "RelativeDocumentMoniker": "recuperado.txt",
+              "ToolTip": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\recuperado.txt",
+              "RelativeToolTip": "recuperado.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-09T18:16:32.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CajaFuerteService.cs",
               "DocumentMoniker": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\CajaFuerteService.cs",
               "RelativeDocumentMoniker": "CajaFuerteService.cs",
@@ -54,12 +105,11 @@
               "RelativeToolTip": "CajaFuerteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T17:53:32.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T17:53:32.035Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Caja_Fuerte.csproj.nuget.dgspec.json",
               "DocumentMoniker": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\obj\\Caja_Fuerte.csproj.nuget.dgspec.json",
               "RelativeDocumentMoniker": "obj\\Caja_Fuerte.csproj.nuget.dgspec.json",
@@ -67,12 +117,11 @@
               "RelativeToolTip": "obj\\Caja_Fuerte.csproj.nuget.dgspec.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-09T17:53:27.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T17:53:27.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Caja_Fuerte.csproj.nuget.g.props",
               "DocumentMoniker": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\obj\\Caja_Fuerte.csproj.nuget.g.props",
               "RelativeDocumentMoniker": "obj\\Caja_Fuerte.csproj.nuget.g.props",
@@ -80,12 +129,11 @@
               "RelativeToolTip": "obj\\Caja_Fuerte.csproj.nuget.g.props",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-11-09T17:53:26.478Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T17:53:26.478Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "project.assets.json",
               "DocumentMoniker": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\obj\\project.assets.json",
               "RelativeDocumentMoniker": "obj\\project.assets.json",
@@ -93,12 +141,11 @@
               "RelativeToolTip": "obj\\project.assets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-09T17:53:24.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T17:53:24.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "project.nuget.cache",
               "DocumentMoniker": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\obj\\project.nuget.cache",
               "RelativeDocumentMoniker": "obj\\project.nuget.cache",
@@ -106,12 +153,11 @@
               "RelativeToolTip": "obj\\project.nuget.cache",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
-              "WhenOpened": "2026-11-09T17:53:22.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T17:53:22.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "FileFormat.cs",
               "DocumentMoniker": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\FileFormat.cs",
               "RelativeDocumentMoniker": "FileFormat.cs",
@@ -119,12 +165,11 @@
               "RelativeToolTip": "FileFormat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T17:46:42.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-09T17:46:42.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Caja_Fuerte.csproj",
               "DocumentMoniker": "C:\\Users\\rubenantoniomunoz0\\Documents\\GitHub\\Caja_Fuerte\\CajaFuerte\\Caja_Fuerte\\Caja_Fuerte.csproj",
               "RelativeDocumentMoniker": "Caja_Fuerte.csproj",

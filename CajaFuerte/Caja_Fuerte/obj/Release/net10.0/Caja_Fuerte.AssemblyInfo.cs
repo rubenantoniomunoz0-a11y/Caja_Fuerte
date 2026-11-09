@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Caja_Fuerte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d9f5444da5912dfc6ac15eb54d38ebbb3508fd1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+835b6858d0f2db03b6737f1d979c5585f002b664")]
 [assembly: System.Reflection.AssemblyProductAttribute("Caja_Fuerte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Caja_Fuerte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
