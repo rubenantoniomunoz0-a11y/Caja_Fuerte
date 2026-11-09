@@ -1,3 +1,4 @@
+
 C:\Users\sergiterrones021\Documents\GitHub\Caja_Fuerte\CajaFuerte\Caja_Fuerte\bin\Debug\net10.0\Caja_Fuerte.exe
 C:\Users\sergiterrones021\Documents\GitHub\Caja_Fuerte\CajaFuerte\Caja_Fuerte\bin\Debug\net10.0\Caja_Fuerte.deps.json
 C:\Users\sergiterrones021\Documents\GitHub\Caja_Fuerte\CajaFuerte\Caja_Fuerte\bin\Debug\net10.0\Caja_Fuerte.runtimeconfig.json
